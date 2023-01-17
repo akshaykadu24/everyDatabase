@@ -1,4 +1,52 @@
-{
+{"Products": [
+  {
+    "id": 1,
+    "item": "shirt",
+    "quantity": 0,
+    "img": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8c2hpcnR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 2,
+    "item": "pant",
+    "quantity": 0,
+    "img": "https://images.unsplash.com/photo-1555689502-c4b22d76c56f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cGFudHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 3,
+    "item": "tshirt",
+    "quantity": 0,
+    "img": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8c2hpcnR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 4,
+    "item": "jacket",
+    "quantity": 0,
+    "img": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8amFja2V0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  }
+],
+"cart": [
+  {
+    "id": "dcec08d6-812d-40a7-bd57-0f3bd666e705",
+    "item": "shirt",
+    "quantity": 0,
+    "img": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8c2hpcnR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": "f592e5f5-1668-492f-95a3-7dc49df095e3",
+    "item": "shirt",
+    "quantity": 0,
+    "img": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8c2hpcnR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": "b236e931-0580-4a86-b129-ce3313fa2c10",
+    "item": "jacket",
+    "quantity": 0,
+    "img": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8amFja2V0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  }
+],
+
+
+
   "movies": [
     {
       "id": 1,
